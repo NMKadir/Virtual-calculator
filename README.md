@@ -2,7 +2,6 @@
 
 A Python-based virtual calculator that lets you perform calculations using hand gestures via webcam, powered by OpenCV and cvzone.  
 
-![Demo](https://user-images.githubusercontent.com/.../demo.gif) **(Add a GIF later)***  
 
 ## Features  
 - ✋ **Gesture-based input**: Tap buttons by pinching your fingers.  
